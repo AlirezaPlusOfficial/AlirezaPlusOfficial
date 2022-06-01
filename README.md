@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Alireza</h1>
+<h3 align="center">Programmer and CC🌟.</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adampithewan@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
 
 <br>
 
