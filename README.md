@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
 
-- ⭕ Currently working on RiotDNS Project then I'm going for Valorant Clone , Valorant Plus , MonCS ( MongoDB and C# ) and So MUCH MORE!
+- ⭕ Currently working on RiotDNS Project then I'm going for Valorant Clone , Valorant Plus ( Platform to learn in-game stuff ) , MonCS ( MongoDB and C# ) and So MUCH MORE!
 <br>
 
 <h3 align="left">Connect with me:</h3>
