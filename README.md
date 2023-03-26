@@ -12,12 +12,13 @@
 <p><img align="right" src="https://github.com/AlirezaPlusOfficial/AlirezaPlusOfficial/blob/main/animation_500_kxa883sd.gif" alt="AlirezaPlusOfficial" /></p>
 
 
-- 🌱 I’m learning Web Development and other programming languages , Currently working on Game Design And Game Development In Valorant Clone Project
+- 🌱 I’m learning Web Development and other programming languages , Currently working on Game Design And Game Development.
 
 - 📫 How to reach me **alirezaplusbusiness@gmail.com**
 
 - ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
 
+- ⭕ Currently working on RiotDNS Project then I'm going for Valorant Clone , Valorant Plus , MonCS ( MongoDB and C# ) and So MUCH MORE!
 <br>
 
 <h3 align="left">Connect with me:</h3>
