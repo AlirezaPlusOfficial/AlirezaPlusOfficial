@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact :- Hope And Music🎵 are the reasons to live.
 
-- ⭕ Currently working on E8 Adventure Project then I'm going for Valorant Clone , Valorant Plus ( Platform to learn in-game stuff ) , UPShop ( A Simple Shop With PHP , MYSQL , JavaScript , HTML , CSS ) and So MUCH MORE!
+- ⭕ ~~Currently working on E8 Adventure Project~~ there are So MUCH MORE TO DO!
 <br>
 
 <h3 align="left">Connect with me:</h3>
