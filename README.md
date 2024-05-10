@@ -9,8 +9,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/AlirezaPlusOfficial/AlirezaPlusOfficial/blob/main/animation_500_kxa883sd.gif" alt="AlirezaPlusOfficial" /></p>
-
 
 - 🌱 I’m learning C# and some other programming languages , Currently working on Game Design And Game Development.
 
