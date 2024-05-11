@@ -80,12 +80,15 @@
 
 
 <h3>Random Quote</h3>
-<div id="text"></div>
- 
-```js
-document.getElementById("text").innerHTML = "Text added by JavaScript code"
-```
-
+<blockquote>
+<!-- Place your quotes here, each wrapped in a <p> tag -->
+<p>The only way to do great work is to love what you do. – Steve Jobs</p>
+<p>Innovation distinguishes between a leader and a follower. – Steve Jobs</p>
+<p>Your time is limited, don't waste it living someone else's life. – Steve Jobs</p>
+<p>Stay hungry, stay foolish. – Steve Jobs</p>
+<p>It does not matter how slowly you go, as long as you do not stop. – Confucius</p>
+<p>The best way to predict the future is to invent it. – Alan Kay</p>
+</blockquote>
 <br>
 
 
