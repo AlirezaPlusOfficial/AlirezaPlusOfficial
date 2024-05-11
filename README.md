@@ -82,7 +82,9 @@
 <h3>Random Quote</h3>
 <div id="text"></div>
  
-<script>document.getElementById("text").innerHTML = "Text added by JavaScript code";</script>
+```js
+document.getElementById("text").innerHTML = "Text added by JavaScript code"
+```
 
 <br>
 
