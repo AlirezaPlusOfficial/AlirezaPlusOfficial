@@ -82,7 +82,7 @@
 <h3>Random Quote</h3>
 <div id="text"></div>
  
-<script src="https://raw.githubusercontent.com/AlirezaPlusOfficial/AlirezaPlusOfficial/main/scripts/quote.js"></script>
+<script>document.getElementById("text").innerHTML = "Text added by JavaScript code";</script>
 
 <br>
 
