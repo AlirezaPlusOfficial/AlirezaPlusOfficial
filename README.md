@@ -78,6 +78,15 @@
 
 <br>
 
+
+<h3>Random Quote</h3>
+<div id="text"></div>
+ 
+<script src="https://raw.githubusercontent.com/AlirezaPlusOfficial/AlirezaPlusOfficial/main/scripts/quote.js"></script>
+
+<br>
+
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AlirezaPlusOfficial&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
