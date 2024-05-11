@@ -79,19 +79,6 @@
 <br>
 
 
-<h3>Random Quote</h3>
-<blockquote>
-<!-- Place your quotes here, each wrapped in a <p> tag -->
-<p>The only way to do great work is to love what you do. – Steve Jobs</p>
-<p>Innovation distinguishes between a leader and a follower. – Steve Jobs</p>
-<p>Your time is limited, don't waste it living someone else's life. – Steve Jobs</p>
-<p>Stay hungry, stay foolish. – Steve Jobs</p>
-<p>It does not matter how slowly you go, as long as you do not stop. – Confucius</p>
-<p>The best way to predict the future is to invent it. – Alan Kay</p>
-</blockquote>
-<br>
-
-
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AlirezaPlusOfficial&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
