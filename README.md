@@ -10,7 +10,7 @@
 <br>
 
 
-- 🌱 I’m learning C# and some other programming languages , Currently working on Game Design And Game Development.
+- 🌱 I’m learning Python & C# and some other programming languages.
 
 - 📫 How to reach me **alirezaplusbusiness@gmail.com**
 
